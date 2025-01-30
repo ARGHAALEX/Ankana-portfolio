@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* html,body{
+  height: 100%;
+  background: linear-gradient(to bottom, #0b0b0b, #1a091f);
+  color: azure;
+  font-family: "Roboto", serif;
+} */
+:root{
+  font-family: "Roboto", serif;
+}
+body{
+  background: radial-gradient(125% 125% at 50% 10%, #000 40%, rgb(34, 98, 101) 100%);
+
+}
